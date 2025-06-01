@@ -31,10 +31,10 @@ final class DefaultLoginFieldPlugin extends \Adminer\Plugin {
     }
 
     protected $translations = array(
-		'cs' => array('' => ''),
-		'de' => array('' => ''),
-		'pl' => array('' => ''),
-		'ro' => array('' => ''),
-		'ja' => array('' => 'ログイン画面に環境変数で指定されたログイン情報を表示'),
-	);
+        'cs' => array('' => 'Zobrazit přihlašovací údaje zadané v proměnných prostředí na přihlašovací obrazovce'),
+        'de' => array('' => 'Anmeldeinformationen aus Umgebungsvariablen auf dem Login-Bildschirm anzeigen'),
+        'pl' => array('' => 'Wyświetl dane logowania określone w zmiennych środowiskowych na ekranie logowania'),
+        'ro' => array('' => 'Afișați informațiile de conectare specificate în variabilele de mediu pe ecranul de conectare'),
+        'ja' => array('' => 'ログイン画面に環境変数で指定されたログイン情報を表示'),
+    );
 }
