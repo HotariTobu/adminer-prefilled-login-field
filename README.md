@@ -12,6 +12,8 @@ By specifying login information via environment variables, you can skip entering
 
 ## Usage
 
+https://hub.docker.com/r/hotari/adminer-prefilled-login-field
+
 Example `docker-compose.yml`:
 
 ```yaml
